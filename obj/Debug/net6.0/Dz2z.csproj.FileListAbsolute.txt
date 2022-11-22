@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Dz2z\bin\Debug\net6.0\Dz2z.exe
+C:\Users\user\Desktop\Dz2z\bin\Debug\net6.0\Dz2z.deps.json
+C:\Users\user\Desktop\Dz2z\bin\Debug\net6.0\Dz2z.runtimeconfig.json
+C:\Users\user\Desktop\Dz2z\bin\Debug\net6.0\Dz2z.dll
+C:\Users\user\Desktop\Dz2z\bin\Debug\net6.0\Dz2z.pdb
+C:\Users\user\Desktop\Dz2z\obj\Debug\net6.0\Dz2z.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Dz2z\obj\Debug\net6.0\Dz2z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Dz2z\obj\Debug\net6.0\Dz2z.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Dz2z\obj\Debug\net6.0\Dz2z.AssemblyInfo.cs
+C:\Users\user\Desktop\Dz2z\obj\Debug\net6.0\Dz2z.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Dz2z\obj\Debug\net6.0\Dz2z.dll
+C:\Users\user\Desktop\Dz2z\obj\Debug\net6.0\refint\Dz2z.dll
+C:\Users\user\Desktop\Dz2z\obj\Debug\net6.0\Dz2z.pdb
+C:\Users\user\Desktop\Dz2z\obj\Debug\net6.0\Dz2z.genruntimeconfig.cache
+C:\Users\user\Desktop\Dz2z\obj\Debug\net6.0\ref\Dz2z.dll
